@@ -629,6 +629,10 @@ pytest tests/integration/
 python llm-use.py benchmark
 ```
 
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=llm-use/llm-use&type=Date)](https://star-history.com/#llm-use/llm-use&Date)
+
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) file.
