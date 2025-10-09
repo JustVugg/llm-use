@@ -938,7 +938,7 @@ locust -f tests/load/locustfile.py
 
 ## 🌟 Star History & Community
 
-[![Star History Chart](https://api.star-history.com/svg?repos=JustVugg/llm-use&type=Date)](https://star-history.com/#JustVugg/llm-use&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=llm-use/llm-use&type=Date)](https://star-history.com/#llm-use/llm-use&Date)
 
 Join our growing community of developers optimizing LLM usage in production!
 
